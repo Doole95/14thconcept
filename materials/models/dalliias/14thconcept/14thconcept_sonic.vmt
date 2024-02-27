@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "\models\dalliias\14thconcept\14thconcept_diffuse"
+    "$color2" "[0.9 0.9 0.9]"
+    "$surfaceprop" "Metal"
+    "$bumpmap" "\models\dalliias\14thconcept\14thconcept_normal"
+    "$envmap" "\models\dalliias\14thconcept\Rough_ENV"
+
+    "$envmaptint" "[0.1 0.1 0.1]"
+    "$nodecal" "0"
+    "$additive" "0"
+    "$nocull" "1"
+    "$translucent" "0"
+    "$rimlight" "1"
+    "$rimlightexponent" "2"
+    "$rimlightboost" "0.2"  
+
+    $phong 1
+    $phongexponent          5
+
+    $phongboost             1.0
+    $phongfresnelranges     "[0 0.5 1]"
+
+
+}
